@@ -1,3 +1,10 @@
+/*
+when you will start writing larger programs it will be very 
+hard to read it if you will be writing code with no tabs and spacings. 
+i do agree that it works, but it's important to make clean 
+coding a habbit, even though the programms written so far are small
+*/
+
 // Computes the future value of a saving investment.
 public class FVCalc {
 	public static void main(String[] args){
