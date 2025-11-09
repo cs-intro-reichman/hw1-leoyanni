@@ -1,3 +1,4 @@
+/* good!*/
 // Represents the hh:mm time format using an AM/PM format.
 public class TimeFormat {
     public static void main(String[] args) {
@@ -22,3 +23,4 @@ public class TimeFormat {
         }
     }
 }
+
